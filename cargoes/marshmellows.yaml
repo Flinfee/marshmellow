@@ -1,0 +1,17 @@
+abbreviation: MA
+available: false
+classes: 32
+colour: 169
+id: 0
+label: MLOW
+longName: marshmellows
+name: Marshmellows
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/marshmellows.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 16
