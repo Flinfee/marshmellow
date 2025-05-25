@@ -1,6 +1,7 @@
 available: false
 callbacks: ''
-cargoAcceptance: []
+cargoAcceptance:
+- MLOW
 cargoProduction: []
 colour: 1
 fundCostMultiplier: 100
