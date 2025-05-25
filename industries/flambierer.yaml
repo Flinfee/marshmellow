@@ -2,16 +2,28 @@ available: false
 callbacks: ''
 cargoAcceptance:
 - MLOW
-cargoProduction: []
+cargoProduction:
+- FMLW
 colour: 1
 fundCostMultiplier: 100
 id: 1
 layout:
-- - - -1
+- - - 0
 name: Flambierer
 placement: anywhere
-probabilityInGame: 5
+probabilityInGame: 6
 probabilityMapGen: 3
 prospectChance: 75
-tiles: []
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/flambierer/1.png
+      left: -36
+      top: -13
 type: primary
