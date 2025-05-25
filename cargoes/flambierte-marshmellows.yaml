@@ -1,0 +1,17 @@
+abbreviation: FM
+available: false
+classes: 32
+colour: 121
+id: 1
+label: FMLW
+longName: flambierte marshmellows
+name: Flambierte Marshmellows
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/flambierte-marshmellows.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 16
